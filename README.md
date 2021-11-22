@@ -5,4 +5,4 @@
 아직 실습중입니다.
 
 #### 1일차
-![이미지](images/beat.PNG)
+![이미지](./images/beat.PNG)
